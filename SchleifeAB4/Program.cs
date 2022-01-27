@@ -12,7 +12,7 @@ namespace SchleifeAB4
 
 
 
-                Console.WriteLine(i);
+                Console.Write("{0,4}",i);
 
 
 

@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifenA1", "SchleifenA1\SchleifenA1.csproj", "{96E59575-288C-424B-A134-A23354555AFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifeA1", "SchleifenA1\SchleifeA1.csproj", "{96E59575-288C-424B-A134-A23354555AFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB2", "SchleifeAB2\SchleifeAB2.csproj", "{16D82DBA-7F66-467D-B3F6-556A8A98C748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifeAB2", "SchleifeAB2\SchleifeAB2.csproj", "{16D82DBA-7F66-467D-B3F6-556A8A98C748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB3", "SchleifeAB3\SchleifeAB3.csproj", "{001DF388-77E8-450D-AAE5-24503E25A807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifeAB3", "SchleifeAB3\SchleifeAB3.csproj", "{001DF388-77E8-450D-AAE5-24503E25A807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB4", "SchleifeAB4\SchleifeAB4.csproj", "{F3B26906-776D-4A37-8E49-A9A85BAC379F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifeAB4", "SchleifeAB4\SchleifeAB4.csproj", "{F3B26906-776D-4A37-8E49-A9A85BAC379F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB5", "SchleifeAB5\SchleifeAB5.csproj", "{2752B64F-80AE-415A-91DC-CAB3251C937E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchleifeAB5", "SchleifeAB5\SchleifeAB5.csproj", "{2752B64F-80AE-415A-91DC-CAB3251C937E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB6", "SchleifeAB6\SchleifeAB6.csproj", "{34EC6A5B-3743-4208-AD78-FB2DC601F6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB7", "SchleifeAB7\SchleifeAB7.csproj", "{550CCCF5-82D9-404B-8004-7510ADE16DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchleifeAB8", "SchleifeAB8\SchleifeAB8.csproj", "{F682B7DB-7180-4587-B1AF-8674A9A8AFFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{2752B64F-80AE-415A-91DC-CAB3251C937E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2752B64F-80AE-415A-91DC-CAB3251C937E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2752B64F-80AE-415A-91DC-CAB3251C937E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EC6A5B-3743-4208-AD78-FB2DC601F6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EC6A5B-3743-4208-AD78-FB2DC601F6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EC6A5B-3743-4208-AD78-FB2DC601F6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EC6A5B-3743-4208-AD78-FB2DC601F6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550CCCF5-82D9-404B-8004-7510ADE16DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550CCCF5-82D9-404B-8004-7510ADE16DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550CCCF5-82D9-404B-8004-7510ADE16DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550CCCF5-82D9-404B-8004-7510ADE16DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F682B7DB-7180-4587-B1AF-8674A9A8AFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F682B7DB-7180-4587-B1AF-8674A9A8AFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F682B7DB-7180-4587-B1AF-8674A9A8AFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F682B7DB-7180-4587-B1AF-8674A9A8AFFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
